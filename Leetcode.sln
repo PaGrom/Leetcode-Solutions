@@ -15,7 +15,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1029. Two City Scheduling",
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1312. Minimum Insertion Steps to Make a String Palindrome", "1312. Minimum Insertion Steps to Make a String Palindrome\1312. Minimum Insertion Steps to Make a String Palindrome.csproj", "{DCE23C80-DBD5-4C68-A381-443CB153EE2E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "389. Find the Difference", "389. Find the Difference\389. Find the Difference.csproj", "{129CDF7B-0165-45ED-B5B0-AECFB839ED77}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "389. Find the Difference", "389. Find the Difference\389. Find the Difference.csproj", "{129CDF7B-0165-45ED-B5B0-AECFB839ED77}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "638. Shopping Offers", "638. Shopping Offers\638. Shopping Offers.csproj", "{D337F48D-6EC2-4B4A-81A6-A4DFACA62EA3}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -51,6 +53,10 @@ Global
 		{129CDF7B-0165-45ED-B5B0-AECFB839ED77}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{129CDF7B-0165-45ED-B5B0-AECFB839ED77}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{129CDF7B-0165-45ED-B5B0-AECFB839ED77}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D337F48D-6EC2-4B4A-81A6-A4DFACA62EA3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D337F48D-6EC2-4B4A-81A6-A4DFACA62EA3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D337F48D-6EC2-4B4A-81A6-A4DFACA62EA3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D337F48D-6EC2-4B4A-81A6-A4DFACA62EA3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
